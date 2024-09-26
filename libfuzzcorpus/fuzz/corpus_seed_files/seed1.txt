@@ -1,0 +1,10 @@
+Hello, World!
+This is a test.
+42
+3.14159
+0xDEADBEEF
+Hello\nWorld\tThis is a test!
+@#%&*()_+-=[]{};':"<>?,./
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+{"key": "value", "number": 123}
+<root><element>Value</element></root>
