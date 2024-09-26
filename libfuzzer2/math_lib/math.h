@@ -9,4 +9,7 @@ int add(int a, int b);
 // Funktion som multiplicerar två tal
 int multiply(int a, int b);
 
+int my_div(int a, int b);
+
+
 #endif // MATH_LIB_MATH_H_
